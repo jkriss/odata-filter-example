@@ -15,4 +15,3 @@ assert.equal(jones.length, 2)
 
 const eightiesBabies = odataFilter("birthdate/year ge 1980 and birthdate/year lt 1990", data)
 assert.equal(eightiesBabies.length, 2)
-console.log(eightiesBabies)
