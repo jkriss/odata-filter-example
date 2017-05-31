@@ -1,0 +1,11 @@
+{
+  "name": "odata-filter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jesse Kriss <jesse@jklabs.net>",
+  "license": "MIT",
+  "dependencies": {
+    "odata-v4-mongodb": "^0.1.10",
+    "sift": "^3.3.10"
+  }
+}
